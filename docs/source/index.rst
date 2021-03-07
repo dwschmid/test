@@ -1,20 +1,16 @@
-.. KDHUT documentation master file, created by
-   sphinx-quickstart on Sun Mar  7 11:30:53 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+######################################################################################################
+SillI 2D Manual
+######################################################################################################
 
-Welcome to KDHUT's documentation!
-=================================
+A 2D Numerical Tool Quantifying the Thermal Effects of Sill Intrusions in Sedimentary Basins
+
+Authors: Karthik Iyer and Daniel W. Schmid, GeoModelling Solutions GmbH, Zurich,
+Switzerland
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :numbered:
+  :maxdepth: 1
+  :caption: Contents
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  1_Introduction.rst
