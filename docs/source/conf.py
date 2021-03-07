@@ -27,10 +27,10 @@ author = 'Kirsten & Dani'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
-				'sphinx_multiversion',
-				'sphinxcontrib.bibtex',
-				'sphinx.ext.mathjax',
-				'sphinx_inline_tabs',
+#				'sphinx_multiversion',
+#				'sphinxcontrib.bibtex',
+#				'sphinx.ext.mathjax',
+#				'sphinx_inline_tabs',
 	#			'sphinx_rtd_theme',
 ]
 
