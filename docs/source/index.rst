@@ -1,11 +1,8 @@
 ######################################################################################################
-SillI 2D Manual
+KDHUT
 ######################################################################################################
 
-A 2D Numerical Tool Quantifying the Thermal Effects of Sill Intrusions in Sedimentary Basins
-
-Authors: Karthik Iyer and Daniel W. Schmid, GeoModelling Solutions GmbH, Zurich,
-Switzerland
+Some info for the KDHUT.
 
 
 .. toctree::

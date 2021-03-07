@@ -119,7 +119,7 @@ html_static_path = ['_static']
 # html_sidebars = {}
 #html_theme = 'alabaster'
 html_theme = "sphinx_rtd_theme"
-html_logo="_static/logo/silli2d.png"
+html_logo="_static/logo/hut.jpg"
 # some customized css style
 html_css_files = ["style.css"]
 
