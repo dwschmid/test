@@ -1,7 +1,7 @@
 Before you arrive
 =======================
 
-We send you a link to these pages once you paid your deposit so that you can prepare your stay. Please remember to pay the full amount when it is time to do so. 
+We send you the link to these pages once you paid your deposit so that you can prepare your stay. Please remember to pay the full amount when it is time to do so. 
 
 What to bring
 **********************

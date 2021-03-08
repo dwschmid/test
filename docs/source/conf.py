@@ -27,6 +27,7 @@ author = 'Kirsten & Dani'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
+	'sphinxcontrib.googlemaps',
 #				'sphinx_multiversion',
 #				'sphinxcontrib.bibtex',
 #				'sphinx.ext.mathjax',
