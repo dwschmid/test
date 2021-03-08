@@ -26,8 +26,7 @@ author = 'Kirsten & Dani'
 # Install Bibtex ext. using pip install sphinxcontrib-bibtex
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.githubpages',
-	'sphinxcontrib.googlemaps',
+    'sphinx.ext.githubpages'
 #				'sphinx_multiversion',
 #				'sphinxcontrib.bibtex',
 #				'sphinx.ext.mathjax',
@@ -120,7 +119,7 @@ html_static_path = ['_static']
 # html_sidebars = {}
 #html_theme = 'alabaster'
 html_theme = "sphinx_rtd_theme"
-html_logo="_static/logo/hut.jpg"
+html_logo="_static/logo/hut.png"
 # some customized css style
 html_css_files = ["style.css"]
 

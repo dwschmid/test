@@ -13,5 +13,4 @@ What to bring
 
 How to get there?
 **********************
-The address is Toreskyrkjavegen 34, Rjukan. If you use google maps you'll have to activate the satellite layer to see the hut. 
-.. googlemaps:: Toreskyrkjavegen 34, Rjukan
+The address is Toreskyrkjavegen 34, Rjukan. If you use google maps you'll have to activate the satellite layer to see the hut. You can click `here <https://www.google.com/maps?saddr=My+Location&daddr=Toreskyrkjavegen+34+Rjukan>`_ to get google maps directions to the hut.
